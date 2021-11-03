@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timotuovinen
+- 👋 Hi, I’m Timo Tuovinen
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on you
