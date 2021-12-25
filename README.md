@@ -1,2 +1,11 @@
 - 👋 Hi, I’m Timo Tuovinen
 - 👀 I’m interested in IT
+
+- 👉 Microsoft
+- 👉 Sharepoint
+- 👉 Teams
+- 👉 M365
+- 👉 Azure
+- 👉 Power Automate
+- 👉 Power Apps
+- 👉 PowerBI
